@@ -1,15 +1,14 @@
-#Wishlist
---------
-* My Wish List *
-* Мой список желаний *
+# Wishlist
+*My Wish List*
+*Мой список желаний*
 
-##Hardware
+## Hardware
 
-Saitek X-55 Rhino H.O.T.A.S. System For PC
-Thrustmaster Hotas Warthog
-AOC I2369Vm
+* Saitek X-55 Rhino H.O.T.A.S. System For PC
+* Thrustmaster Hotas Warthog
+*AOC I2369Vm
 
-##Books
+## Books
 
 * [Конкретная математика. Математические основы информатики  Р. Л. Грэхем, Д. Э. Кнут, О. Паташник](https://www.ozon.ru/context/detail/id/31333006/)
 * [Современные операционные системы   Э. Таненбаум, Х. Бос](https://www.ozon.ru/context/detail/id/31649356/)

@@ -1,12 +1,12 @@
 # Wishlist
-*My Wish List*
+*My Wish List*  
 *Мой список желаний*
 
 ## Hardware
 
 * Saitek X-55 Rhino H.O.T.A.S. System For PC
 * Thrustmaster Hotas Warthog
-*AOC I2369Vm
+* AOC I2369Vm
 
 ## Books
 

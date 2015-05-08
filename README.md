@@ -7,6 +7,7 @@
 
 * [Saitek X-55 Rhino H.O.T.A.S. System For PC](https://market.yandex.ru/product/10704769/)
 * [Thrustmaster Hotas Warthog](https://market.yandex.ru/product/6839360)
+* [Kingston HyperX Cloud](http://www.ulmart.ru/goods/889933) - Всегда хотел нормальные наушники с микрофоном
 * [AOC I2369Vm](https://market.yandex.ru/product/9237416)
 
 ## Сделай сам
@@ -16,7 +17,7 @@
 * [Набор для пайки универсальный (20-20)](http://www.chipdip.ru/product/soldering-kit-universal/) - либо аналогичный
 * [Подставка для паяльника](http://amperka.ru/product/soldering-stand) - либо аналогичный
 * [Держатель печатной платы с лупой](http://amperka.ru/product/soldering-helping-hand)
-* [Набор отвёрток](http://amperka.ru/product/screw-kit)
+* [Набор отвёрток](http://amperka.ru/product/screw-kit) - Идеально было бы iFixit набор, либо аналог iFixit
 * [TDA2050V (TDA2050)](http://www.chipdip.ru/product/tda2050/) - нужно 2 шт. может наконец-то поченю усилитель для колонок
 * [Raspberry Pi 2 Model B](http://amperka.ru/product/raspberry-pi-2-model-b)
 * [Бокс для Raspberry Pi Model B+ / Pi 2 Model B](http://amperka.ru/product/raspberry-pi-b-plus-enclosure)

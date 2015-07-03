@@ -9,7 +9,6 @@
 * [Thrustmaster Hotas Warthog](https://market.yandex.ru/product/6839360)
 * [Sennheiser HD 215 II](https://market.yandex.ru/product/658733?hid=90555) - Хорошие наушники
 * [Kingston HyperX Cloud](http://www.ulmart.ru/goods/889933) - Всегда хотел нормальные наушники с микрофоном
-* [mp3 плеер 4Gb Sony NWZ-B183F/B](http://www.ulmart.ru/goods/787173)
 * [AOC I2369Vm](https://market.yandex.ru/product/9237416)
 
 ## Сделай сам

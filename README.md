@@ -20,8 +20,8 @@
 * [Держатель печатной платы с лупой](http://amperka.ru/product/soldering-helping-hand)
 * [Набор отвёрток](http://amperka.ru/product/screw-kit) - Идеально было бы iFixit набор, либо аналог iFixit
 * [TDA2050V (TDA2050)](http://www.chipdip.ru/product/tda2050/) - нужно 2 шт. может наконец-то поченю усилитель для колонок
-* [Raspberry Pi 2 Model B](http://amperka.ru/product/raspberry-pi-2-model-b)
-* [Бокс для Raspberry Pi Model B+ / Pi 2 Model B](http://amperka.ru/product/raspberry-pi-b-plus-enclosure)
+* ~~[Raspberry Pi 2 Model B](http://amperka.ru/product/raspberry-pi-2-model-b)~~
+* ~~[Бокс для Raspberry Pi Model B+ / Pi 2 Model B](http://amperka.ru/product/raspberry-pi-b-plus-enclosure)~~
 
 ## Книги
 *Books*

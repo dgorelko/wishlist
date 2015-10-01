@@ -20,8 +20,6 @@
 * [Держатель печатной платы с лупой](http://amperka.ru/product/soldering-helping-hand)
 * [Набор отвёрток](http://amperka.ru/product/screw-kit) - Идеально было бы iFixit набор, либо аналог iFixit
 * [TDA2050V (TDA2050)](http://www.chipdip.ru/product/tda2050/) - нужно 2 шт. может наконец-то поченю усилитель для колонок
-* ~~[Raspberry Pi 2 Model B](http://amperka.ru/product/raspberry-pi-2-model-b)~~
-* ~~[Бокс для Raspberry Pi Model B+ / Pi 2 Model B](http://amperka.ru/product/raspberry-pi-b-plus-enclosure)~~
 
 ## Книги
 *Books*
@@ -31,5 +29,4 @@
 * [Алгоритмы. Построение и анализ  Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн](https://www.ozon.ru/context/detail/id/22421471/) - 3е издание
 * [Язык программирования С++. Специальное издание. Б. Страуструп](https://www.ozon.ru/context/detail/id/26671374/)
 * [Стандарты программирования на С++. Г.Саттер](https://www.ozon.ru/context/detail/id/2381848/)
-* ~~[Современные операционные системы   Э. Таненбаум, Х. Бос](https://www.ozon.ru/context/detail/id/31649356/) - 4е издание~~
 * [Unix и Linux. Руководство системного администратора  Эви Немет, Гарт Снайдер, Трент Хейн, Бэн Уэйли](https://www.ozon.ru/context/detail/id/7607778/) - 4е издание

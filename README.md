@@ -19,6 +19,7 @@
 * ~~[Подставка для паяльника](http://amperka.ru/product/soldering-stand) - либо аналогичный
 * [Держатель печатной платы с лупой](http://amperka.ru/product/soldering-helping-hand)
 * [Набор отвёрток](http://amperka.ru/product/screw-kit) - Идеально было бы iFixit набор, либо аналог iFixit
+* ~~[TDA2050V (TDA2050)](http://www.chipdip.ru/product/tda2050/) - нужно 2 шт. может наконец-то поченю усилитель для колонок~~
 
 ## Книги
 *Books*

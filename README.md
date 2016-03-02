@@ -14,9 +14,7 @@
 ## Сделай сам
 *DIY*
 
-* ~~[Паяльник Goot KS-30R (30 ватт)](http://amperka.ru/product/soldering-iron-goot-30w) - Можно аналог и чуть больше мощности~~
 * [Набор для пайки универсальный (20-20)](http://www.chipdip.ru/product/soldering-kit-universal/) - либо аналогичный
-* ~~[Подставка для паяльника](http://amperka.ru/product/soldering-stand)~~
 * [Держатель печатной платы с лупой](http://amperka.ru/product/soldering-helping-hand)
 * [Набор отвёрток](http://amperka.ru/product/screw-kit) - Идеально было бы iFixit набор, либо аналог iFixit
 

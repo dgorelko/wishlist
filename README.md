@@ -7,7 +7,6 @@
 
 * [Saitek X-55 Rhino H.O.T.A.S. System For PC](https://market.yandex.ru/product/10704769/)
 * [Thrustmaster Hotas Warthog](https://market.yandex.ru/product/6839360)
-* [Sennheiser HD 215 II](https://market.yandex.ru/product/658733?hid=90555) - Хорошие наушники
 * [Kingston HyperX Cloud](http://www.ulmart.ru/goods/889933) - Всегда хотел нормальные наушники с микрофоном
 * [AOC I2369Vm](https://market.yandex.ru/product/9237416)
 

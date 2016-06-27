@@ -10,7 +10,6 @@
 * [Kingston HyperX Cloud Revolver](https://www.ulmart.ru/goods/3825335)
 * [Razer Blackwidow Chroma Black USB](https://www.ulmart.ru/goods/1049339)
 * [Razer Mamba Chroma Black Tournament USB](https://www.ulmart.ru/goods/3688397)
-
 * [AOC I2369Vm](https://market.yandex.ru/product/9237416)
 
 ## Сделай сам

@@ -5,8 +5,8 @@
 ## Оборудование
 *Hardware*
 
-* ~~[Saitek X-55 Rhino H.O.T.A.S. System For PC](https://market.yandex.ru/product/10704769/)~~
-* ~~[Thrustmaster Hotas Warthog](https://market.yandex.ru/product/6839360)~~
+* [Saitek X-55 Rhino H.O.T.A.S. System For PC](https://market.yandex.ru/product/10704769/)
+* [Thrustmaster Hotas Warthog](https://market.yandex.ru/product/6839360)
 * [Kingston HyperX Cloud Revolver](https://www.ulmart.ru/goods/3825335)
 * [Razer Blackwidow Chroma Black USB](https://www.ulmart.ru/goods/1049339)
 * [Razer Mamba Chroma Black Tournament USB](https://www.ulmart.ru/goods/3688397)

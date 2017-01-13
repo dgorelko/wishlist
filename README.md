@@ -28,3 +28,9 @@
 * [Язык программирования С++. Специальное издание. Б. Страуструп](https://www.ozon.ru/context/detail/id/26671374/)
 * [Стандарты программирования на С++. Г.Саттер](https://www.ozon.ru/context/detail/id/2381848/)
 * [Unix и Linux. Руководство системного администратора  Эви Немет, Гарт Снайдер, Трент Хейн, Бэн Уэйли](https://www.ozon.ru/context/detail/id/7607778/) - 4е издание
+
+## Мебель
+*Furniture*
+
+* [ФРЕДДЕ - Рабочее место, черный](http://www.ikea.com/ru/ru/catalog/products/50219044/)
+* [МАРКУС - Рабочий стул, Висле темно-серый](http://www.ikea.com/ru/ru/catalog/products/20309729/#/70261150)

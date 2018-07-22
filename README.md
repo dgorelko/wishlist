@@ -1,6 +1,5 @@
 # Wishlist
 *Мой список желаний*
-*My Wish List*
 
 ## Оборудование
 *Hardware*

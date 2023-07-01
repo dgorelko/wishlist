@@ -15,7 +15,7 @@
 ## Сделай сам
 *DIY*
 
-* [Набор для пайки универсальный (20-20)](http://www.chipdip.ru/product/soldering-kit-universal/) - либо аналогичный
+* ~~[Набор для пайки универсальный (20-20)](http://www.chipdip.ru/product/soldering-kit-universal/) - либо аналогичный~~
 * [Держатель печатной платы с лупой](http://amperka.ru/product/soldering-helping-hand)
 * [Робоняша](http://amperka.ru/product/robonyasha-iskra-js) - конструктор "Робоняша"
 * [ifixit Pro Tech Toolkit](https://ru.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307) - IF145-307
@@ -31,16 +31,35 @@
 * [Язык программирования С++. Специальное издание.](https://www.ozon.ru/context/detail/id/139958735/) - ISBN 978-5-9518-0425-9, 0-201-70073-5
 * [Стандарты программирования на С++.](https://www.ozon.ru/context/detail/id/2381848/) - ISBN 978-5-8459-1933-5
 * [Unix и Linux. Руководство системного администратора  Эви Немет, Гарт Снайдер, Трент Хейн, Бэн Уэйли](https://www.ozon.ru/context/detail/id/31924164/) - 4е издание ISBN 978-5-8459-1740-9, 978-0-13-148005-6
-* [OpenStack. Практическое знакомство с облачной операционной системой. Четверное издание](https://www.ozon.ru/context/detail/id/146269188/) - ISBN 978-5-97060-652-0
-* [Олимпиадное программирование](https://www.ozon.ru/context/detail/id/146462877/) - ISBN 978-5-97060-644-5
+* ~~[OpenStack. Практическое знакомство с облачной операционной системой. Четверное издание](https://www.ozon.ru/context/detail/id/146269188/) - ISBN 978-5-97060-652-0~~
+* ~~[Олимпиадное программирование](https://www.ozon.ru/context/detail/id/146462877/) - ISBN 978-5-97060-644-5~~
 * [Изучаем C++ через программирование игр](https://www.ozon.ru/context/detail/id/33558249/) - ISBN 978-5-496-01629-2
 * [Изучаем Arduino. Инструменты и методы технического волшебства](https://www.ozon.ru/context/detail/id/31350922/) - ISBN 978-5-9775-3585-4
-* [Электроника для начинающих](https://www.ozon.ru/context/detail/id/138760497/) - ISBN	978-5-9775-3793-3
-* [Конспект хакера](http://amperka.ru/product/hacker-workbook) - Брошюра конспект хакера
-* [Блокнот хакера](http://amperka.ru/product/amperka-notebook) - Фирменный блокнот от Амперки
+* ~~[Электроника для начинающих](https://www.ozon.ru/context/detail/id/138760497/) - ISBN	978-5-9775-3793-3~~
+* ~~[Конспект хакера](http://amperka.ru/product/hacker-workbook) - Брошюра конспект хакера~~
+* ~~[Блокнот хакера](http://amperka.ru/product/amperka-notebook) - Фирменный блокнот от Амперки~~
 
 ## Мебель
 *Furniture*
 
 * [ФРЕДДЕ - Рабочее место, черный](http://www.ikea.com/ru/ru/catalog/products/50219044/) - Нет в продаже
 * [МАРКУС - Рабочий стул, Висле темно-серый](http://www.ikea.com/ru/ru/catalog/products/20309729/#/70261150) - Нет в продаже
+
+## Aliexpress
+
+* [набор отверток](http://ali.pub/1geuh0)
+* [термопаста GD900](http://ali.pub/1j9cff)
+* [термопаста Arctic MX-4](http://ali.pub/2zkj0u)
+* [Вентилятор для MSI GE72](http://ali.pub/3q3yt4)
+* [Термопрокладки](http://ali.pub/3q3zei)
+
+### Жидкие термопрокладки:
+
+* [GD100](https://aliexpress.ru/item/32848128340)
+
+### Хорошая термопаста:
+
+* [GD900](https://aliexpress.ru/item/1364208695)
+* [MX4](https://www.partsdirect.ru/goods/681707)
+* клей b7000
+* ацитатный скоч
